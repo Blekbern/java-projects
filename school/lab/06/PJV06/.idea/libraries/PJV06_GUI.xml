@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PJV06-GUI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/PJV06-GUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
